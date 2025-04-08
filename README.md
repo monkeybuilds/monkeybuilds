@@ -1,53 +1,68 @@
-<h1 align="center">Hey, I'm Atharv Pathak 👋</h1>
+
+<h1 align="center">Hey there, I'm Atharva 👋</h1>
+<h3 align="center">a.k.a. Carbon Monkey 🐒 | Builder | Learner | Creator</h3>
 
 <p align="center">
-  🧠 CSE (Data Science) Student | Aspiring Data Analyst & Dev | Builder @ Heart  
-  <br>
-  💻 Exploring Linux • Data • Hardware Projects • Sustainability  
+  🔭 Currently building: <b>Cook-E</b> – a smart recipe assistant 🍳 <br>
+  🎵 Maker of <b>AirNote</b> – gesture-controlled music instrument <br>
+  💡 Exploring: Data Science, Embedded Systems, Linux, and Open Source <br>
 </p>
 
 ---
 
-### 🛠️ Current Focus
-- 🎶 Building **AirNote** – a gesture-controlled musical instrument using ESP32
-- 📦 Creating **Mycelium-based sustainable packaging** for Zomato Packathon
-- 📊 Learning **Python, Pandas, SQL** for Data Analytics
-- 🐧 Deep-diving into **Linux, Open Source & Git**
+### 🧠 About Me
+```yaml
+Name: Atharva Pathak
+Location: Ambikapur, India 🇮🇳
+Field: CSE (Data Science) @ BIT Durg
+Mission: Build impactful tech, one project at a time
+Side Hustles: Content creation, Voice-over, Video editing
+```
 
 ---
 
-### 🧰 Tech Stack
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
-![ESP32](https://img.shields.io/badge/-ESP32-black?style=flat-square)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
+### 🔨 Tech Toolbox
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
+![Arduino](https://img.shields.io/badge/-Arduino-333?style=flat&logo=arduino)
+![ESP32](https://img.shields.io/badge/-ESP32-333)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
 ---
 
-### 🚀 Projects in Motion
-- [🔊 AirNote - Gesture Controlled Virtual Instrument](#)  
-- [📚 100 Days of Linux – My journey](#)  
-- [📊 Data Analytics Portfolio (coming soon)](#)
+### 🚀 Projects Spotlight
+
+| Project | Description |
+|--------|-------------|
+| [Cook-E 🍽️](https://github.com/monkeybuilds/Cook-E) | Smart recipe assistant that recommends meals based on your ingredients |
+| [AirNote 🎶](https://github.com/monkeybuilds/AirNote-Instrument) | Gesture-based virtual music instrument built with ESP32 |
+| [VoxCypher 🧠](#) | AI-powered face detection and age prediction system |
+| [Trend Analyzer 📊](#) | Tracks and analyzes trending topics across social media |
+| [Voice Assistant 🎙️](#) | Python-based personal assistant with voice commands |
 
 ---
 
 ### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monkeybuilds&show_icons=true&theme=radical" width="47%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkeybuilds&layout=compact&theme=radical" width="47%">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=monkeybuilds&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkeybuilds&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### ⚡ Fun Fact
-> I turn code into music and mushrooms into packaging.
+### 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://linkedin.com/in/atharvpathak)
+- 💻 [GitHub](https://github.com/monkeybuilds)
+- 📧 atharvapathak025@gmail.com
 
 ---
 
-### 📬 Let’s Connect!
-[LinkedIn](https://linkedin.com/in/atharvpathak) • [GitHub](https://github.com/monkeybuilds) • [Email](mailto:youremail@example.com)
-
+> ⚡ “Code loud. Think deep. Build something weird.”  
+> — Carbon Monkey 🐵
