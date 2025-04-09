@@ -24,11 +24,9 @@ Side Hustles: Content creation, Voice-over, Video editing
 ### 🔨 Tech Toolbox
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
 ![Arduino](https://img.shields.io/badge/-Arduino-333?style=flat&logo=arduino)
 ![ESP32](https://img.shields.io/badge/-ESP32-333)
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
