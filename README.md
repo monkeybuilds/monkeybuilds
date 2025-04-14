@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey there, I'm Atharva 👋</h1>
 <h3 align="center">a.k.a. Carbon Monkey 🐒 | Builder | Learner | Creator</h3>
 
