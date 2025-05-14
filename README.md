@@ -12,7 +12,7 @@
 ### 🧠 About Me
 ```yaml
 Name: Atharva Pathak
-Location: Ambikapur, India 🇮🇳
+Location: Durg, India 🇮🇳
 Field: CSE (Data Science) @ BIT Durg
 Mission: Build impactful tech, one project at a time
 Side Hustles: Content creation, Voice-over, Video editing
