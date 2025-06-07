@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Atharva 👋</h1>
+ <h1 align="center">Hey there, I'm Atharva 👋</h1>
 <h3 align="center">a.k.a. Carbon Monkey 🐒 | Builder | Learner | Creator</h3>
 
 <p align="center">
@@ -12,8 +12,7 @@
 ### 🧠 About Me
 ```yaml
 Name: Atharva Pathak
-Location: Durg, India 🇮🇳
-Field: CSE (Data Science) @ BIT Durg
+Field: CSE (Data Science)
 Mission: Build impactful tech, one project at a time
 Side Hustles: Content creation, Voice-over, Video editing
 ```
