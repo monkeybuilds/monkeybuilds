@@ -1,64 +1,64 @@
- <h1 align="center">Hey there, I'm Atharva 👋</h1>
-<h3 align="center">a.k.a. Carbon Monkey 🐒 | Builder | Learner | Creator</h3>
+<!-- Banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FCA8&center=true&vCenter=true&width=435&lines=Hey!+I'm+Atharv+Pathak;Final+Year+CS+Student;Google+Winter+Internship+Aspiring+;GSoC'26+|+GATE+CS'26+Prep" />
 
+---
+
+<h3 align="center">🚀 About Me</h3>
+
+🎓 Final-year CS student | Passionate about building AI tools & scalable systems  
+🌍 Exploring Open Source | Contributor to 3+ OSS Orgs  
+📚 Currently diving into **Machine Learning** & **Systems Design**  
+🧠 Strong command over **DSA | Python | C++ | Web Dev | Git**
+
+---
+
+<details>
+  <summary>🧰 Languages & Tools</summary><br/>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,nodejs,mongodb,linux,git,vscode,figma,docker,bash,tailwind" />
+  </p>
+</details>
+
+---
+
+<details>
+  <summary>📈 GitHub Stats</summary>
+  <br />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=radical&show_icons=true" alt="stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  </p>
+</details>
+
+---
+
+### 🚀 Featured Projects
+
+| Name | Tech Stack | Description |
+|------|------------|-------------|
+| [Smart Cooking Assistant](https://github.com/yourusername/project1) | Python, Flask, AI | IoT + ML kitchen assistant for automating cooking processes |
+| [GATE CLI Tool](https://github.com/yourusername/gate-cli) | Python, CLI | Terminal-based practice app for GATE CS preparation |
+| [My Portfolio](https://github.com/yourusername/portfolio) | React, Tailwind | Clean, responsive, dark-themed developer portfolio |
+
+---
+
+### 🧩 Currently Learning:
+- Advanced ML (sklearn, XGBoost, Deep Learning)
+- Contributing to real-world OSS
+- GATE Theory (TOC, CN, OS, DBMS)
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)  
+[![Twitter](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yourhandle)  
+[![Resume](https://img.shields.io/badge/Resume-View-green?style=for-the-badge)](https://your-resume-link.com)
+
+---
+
+<!-- Profile views -->
 <p align="center">
-  🔭 Currently building: <b>Cook-E</b> – a smart recipe assistant 🍳 <br>
-  🎵 Maker of <b>AirNote</b> – gesture-controlled music instrument <br>
-  💡 Exploring: Data Science, Embedded Systems, Linux, and Open Source <br>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blueviolet&style=flat" />
 </p>
-
----
-
-### 🧠 About Me
-```yaml
-Name: Atharva Pathak
-Field: CSE (Data Science)
-Mission: Build impactful tech, one project at a time
-Side Hustles: Content creation, Voice-over, Video editing
-```
-
----
-
-### 🔨 Tech Toolbox
-
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
-![Arduino](https://img.shields.io/badge/-Arduino-333?style=flat&logo=arduino)
-![ESP32](https://img.shields.io/badge/-ESP32-333)
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-
----
-
-### 🚀 Projects Spotlight
-
-| Project | Description |
-|--------|-------------|
-| [Cook-E 🍽️](https://github.com/monkeybuilds/Cook-E) | Smart recipe assistant that recommends meals based on your ingredients |
-| [AirNote 🎶](https://github.com/monkeybuilds/AirNote-Instrument) | Gesture-based virtual music instrument built with ESP32 |
-| [VoxCypher 🧠](#) | AI-powered face detection and age prediction system |
-| [Trend Analyzer 📊](#) | Tracks and analyzes trending topics across social media |
-| [Voice Assistant 🎙️](#) | Python-based personal assistant with voice commands |
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=monkeybuilds&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkeybuilds&layout=compact&theme=radical" />
-</p>
-
----
-
-### 📫 Let's Connect!
-
-- 💼 [LinkedIn](https://linkedin.com/in/atharvpathak)
-- 💻 [GitHub](https://github.com/monkeybuilds)
-- 📧 atharvapathak025@gmail.com
-
----
-
-> ⚡ “Code loud. Think deep. Build something weird.”  
-> — Carbon Monkey 🐵
