@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">Hey there, I'm Atharva 👋</h1>
-<h3 align="center">a.k.a. Carbon Monkey 🐒 | Builder | Learner | Creator</h3>
+<h1 align="center">a.k.a. Carbon Monkey 🐒 | Builder | Learner | Creator</h1>
 
 <p align="center">
   🔭 Currently building: <b>Cook-E</b> – a smart recipe assistant 🍳 <br>
