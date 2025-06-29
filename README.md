@@ -1,19 +1,31 @@
-<h3 align="center">🧰 Tech Stack</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,mongodb,git,github,linux,docker,figma,vscode,tailwind&perline=8" /> </p>
-<details> <summary><b>📊 GitHub Stats & Graph</b></summary> <br/> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=algolia" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=algolia" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=algolia" /> <br /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" /> </p> </details>
-<h3 align="center">🌍 Let's Connect!</h3> <p align="center"> <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://x.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/></a> </p>
-
-<h3 align="center">🧩 Dev Quote</h3> <p align="center"><i>"Good code is its own best documentation." – Steve McConnell</i></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=00c1ff&style=flat" /> </p> ```<!-- Typing SVG Header -->
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,git,linux,vscode&perline=8" /> <br/> <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/-ESP32-grey?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Python%20Automation-FFD43B?style=for-the-badge&logo=python&logoColor=black" /> </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFC5&center=true&vCenter=true&width=435&lines=Hi+I'm+Atharv+Pathak!;CS+Final+Year+Student;Aspiring+Google+Intern+%F0%9F%9A%80;GSoC+%7C+GATE+CS+%7C+Open+Source" />
+
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=monkeybuilds&show_icons=true&theme=radical" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkeybuilds&layout=compact&theme=radical" /> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=monkeybuilds&theme=tokyo-night" /> </p>
+
+<p align="center"> <a href="https://linkedin.com/in/atharvpathak"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/monkeybuilds"><img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="mailto:atharvapathak025@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
+
+<p align="center"><i>"Code loud. Think deep. Build something weird."</i> — Carbon Monkey 🐵</p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=monkeybuilds&label=Profile+Views&color=00c1ff&style=flat" /> </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFC5&center=true&vCenter=true&width=435&lines=Hey+I'm+Atharva+Pathak!;aka+Carbon+Monkey+%F0%9F%90%92;CS+Student+%7C+Builder+%7C+Open+Source+Contributor;Cook-E+%7C+Data+Science+%7C+ESP32+%7C+Linux+Lover" />
+</p>
+
+<h1 align="center">Hey there, I'm Atharva 👋</h1>
+<h3 align="center">a.k.a. Carbon Monkey 🐒 | Builder | Learner | Creator</h3>
+
+<p align="center">
+  🔭 Currently building: <b>Cook-E</b> – a smart recipe assistant 🍳 <br>
+  🎵 Maker of <b>AirNote</b> – gesture-controlled music instrument <br>
+  💡 Exploring: Data Science, Embedded Systems, Linux, and Open Source <br>
 </p>
 
 ---
 
-<h3 align="center">🧠 About Me</h3>
+### 🧠 About Me
 
 ```yaml
-Name: Atharv Pathak
-Role: Final Year CS Student
-Interest: ML, OSS, DevTools, GATE CS'26
-Location: India 🇮🇳
+Name: Atharva Pathak
+Field: CSE (Data Science)
+Mission: Build impactful tech, one project at a time
+Side Hustles: Content creation, Voice-over, Video editing
+
