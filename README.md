@@ -3,8 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFC5&center=true&vCenter=true&width=435&lines=Hey+I'm+Atharva+Pathak!;aka+Carbon+Monkey+%F0%9F%90%92;CS+Student+%7C+Builder+%7C+Open+Source" />
 </p>
 
-<h1 align="center">Hey there, I'm Atharva 👋</h1>
-<h3 align="center">a.k.a. Carbon Monkey 🐒 | Builder | Learner | Creator</h3>
+<h1 align="center">Hey there, I'm Atharv👋</h1>
+<h3 align="center">a.k.a. Carbon Monkey 🐒 | Builder | Learner | Creator | Engineer </h3>
 
 <p align="center">
   🔭 Currently building: <b>Cook-E</b> – a smart recipe assistant 🍳 <br>
